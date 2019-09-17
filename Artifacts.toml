@@ -1,0 +1,113 @@
+[[iso-codes]]
+arch = "x86_64"
+git-tree-sha1 = "a72f16f9aaa01596c1516be3c29d03473c5779e4"
+libc = "glibc"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "5c49b32227054c3988060f3c9f5e1833c7bb0bdaa7485b149e9092c0b5910659"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.x86_64-linux-gnu.tar.gz"
+[[iso-codes]]
+arch = "armv7l"
+git-tree-sha1 = "afcdcb23c7bcb8a25afb4ee75fb150217c3a78a3"
+libc = "musl"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "1ccb29c30f5aa82902a21c472854f962913257adead8f5305a4d7a0820d2818d"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.arm-linux-musleabihf.tar.gz"
+[[iso-codes]]
+arch = "x86_64"
+git-tree-sha1 = "bb6fed60f795cd9ccd1cf98a3334ba29032a4d3e"
+os = "macos"
+
+    [[iso-codes.download]]
+    sha256 = "ec9d13ccbd9969c739f5bd052f8ca8f6a0b25fb4442fefd2dfafc54d660f3372"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.x86_64-apple-darwin14.tar.gz"
+[[iso-codes]]
+arch = "x86_64"
+git-tree-sha1 = "3853525c857324e72532200b965cb5e23270d853"
+os = "freebsd"
+
+    [[iso-codes.download]]
+    sha256 = "6d38dff030fced5850e2a7f17df5d548ce6fbec54672d41dab72eb3f2f16fc37"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[iso-codes]]
+arch = "i686"
+git-tree-sha1 = "f5b80d97d4e4e10190502c0d8a255609532ab3bc"
+libc = "glibc"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "3ff1a6ebd0b14928ca5f40855134877ccd0c55caa8afc1a23c54ac4d9736bc24"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.i686-linux-gnu.tar.gz"
+[[iso-codes]]
+arch = "i686"
+git-tree-sha1 = "286a5440568459251e684e3cc71e545781fc8e9d"
+os = "windows"
+
+    [[iso-codes.download]]
+    sha256 = "8aa94facb9ccda24868754c5d6c023565ccf24e701862572eed9820cb3cc7fe7"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.i686-w64-mingw32.tar.gz"
+[[iso-codes]]
+arch = "i686"
+git-tree-sha1 = "400a4dc484965a7a54cccbd161956428b63e3c1d"
+libc = "musl"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "29618f538208f5b9f84243c5fe33546139c45c0b0d0cb7320155489e5a687259"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.i686-linux-musl.tar.gz"
+[[iso-codes]]
+arch = "aarch64"
+git-tree-sha1 = "ec3e91b9f6f89568d6b170d5c34bc582007465fa"
+libc = "musl"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "30c5966821f9d53497030eb9d12057dce610ceb853461dfb7401e1b381769053"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.aarch64-linux-musl.tar.gz"
+[[iso-codes]]
+arch = "aarch64"
+git-tree-sha1 = "0369186f7fcf158b3eac90654aebef5c1147b4bc"
+libc = "glibc"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "ee5bd23bc43766474ce56f608bd20f6c0beb94e06001d9895a320962756e84ce"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.aarch64-linux-gnu.tar.gz"
+[[iso-codes]]
+arch = "powerpc64le"
+git-tree-sha1 = "6970226ebf2a2bf4a39fa7b800eaff7b973b58ba"
+libc = "glibc"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "d4aebbdd6fa4bebceb846936109d0ab1dd83e44d5b9bbc8506c1ed940a52d515"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.powerpc64le-linux-gnu.tar.gz"
+[[iso-codes]]
+arch = "armv7l"
+git-tree-sha1 = "672ed47492a637651f7d64c1b7eb1fa563c0a302"
+libc = "glibc"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "2681cdfea9d1bafe5f1cbfbc5122e8fd6f16aca4ec38a7d496d01ec7e85a339e"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.arm-linux-gnueabihf.tar.gz"
+[[iso-codes]]
+arch = "x86_64"
+git-tree-sha1 = "7ab8db3d40b96546541aef398f892396ac56f839"
+os = "windows"
+
+    [[iso-codes.download]]
+    sha256 = "1c19cad7776fba8513911fbce049dc90a249c2614195b113e4736eb39cc0d36a"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.x86_64-w64-mingw32.tar.gz"
+[[iso-codes]]
+arch = "x86_64"
+git-tree-sha1 = "d779fc548d1d70e92b1a427bdbe077c19ceb9e02"
+libc = "musl"
+os = "linux"
+
+    [[iso-codes.download]]
+    sha256 = "ec1304cf73c51918d65e5212104b2d7ed034a9573ce89dc9566352f552d234ae"
+    url = "https://github.com/JuliaBinaryWrappers/iso-codes_jll.jl/releases/download/iso-codes-v4.3.0+0/iso-codes.v4.3.0.x86_64-linux-musl.tar.gz"

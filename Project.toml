@@ -1,0 +1,10 @@
+name = "iso-codes_jll"
+uuid = "733d0f21-034b-58e3-b6c2-3b0a0805a692"
+version = "4.3.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
